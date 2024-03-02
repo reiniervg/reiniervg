@@ -6,7 +6,8 @@ Hi there! I'm Reinier, a networking student based in the Netherlands. I'm passio
 
 - 📚 Networking student with a keen interest in software development.
 - 💻 Currently learning Lua, Vue.js, and MySQL.
-- 🌐 Experienced in JavaScript, HTML, CSS, Intune, Lua, Azure, C#, Discord.js, Powershell, and Node.js.
+- 🌐 Experience in JavaScript, HTML, CSS, Intune, Lua, Azure, C#, Discord.js, and Node.js.
+- 🖥️ Familiar with VMware vSphere, Hyper-V, VirtualBox, and Pterodactyl Panel.
 - 🚑 Working on [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv) - a project related to emergency services.
 - 🎨 Also interested in modeling.
 
@@ -23,6 +24,10 @@ Hi there! I'm Reinier, a networking student based in the Netherlands. I'm passio
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/-VMware%20vSphere-607078?style=flat&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat&logo=microsoft-hyper-v&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Pterodactyl Panel](https://img.shields.io/badge/-Pterodactyl%20Panel-040D17?style=flat&logo=pterodactyl&logoColor=white)
 
 ## Current Projects
 
