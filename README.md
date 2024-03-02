@@ -1,45 +1,23 @@
-<h1 align="center">Hi 👋, I'm Reinier</h1>
-<h3 align="center">A passionate gta 5 developer and modeler from the netherlands</h3>
+# Welcome to My GitHub Profile 👋
 
-- 🔭 I’m currently working on [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv)
+Hi there! I'm [Your Name], a networking student based in the Netherlands. I'm passionate about learning and exploring various technologies. Currently, I'm focusing on Lua, Vue.js, and MySQL, while also having some experience with JavaScript, HTML, CSS, and several other tools and languages.
 
-- 🌱 I’m currently learning **VueJS**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/uaShN3KZrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uaShN3KZrv" height="30" width="40" /></a>
-</p>
+- 📚 Networking student with a keen interest in software development.
+- 💻 Currently learning Lua, Vue.js, and MySQL.
+- 🌐 Experienced in JavaScript, HTML, CSS, Intune, Lua, Azure, C#, Discord.js, and Node.js.
+- 🚑 Working on [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv) - a project related to emergency services.
+- 🎨 Also interested in modeling.
 
-<h3 align="left">Languages and Tools:</h3>
+## Current Projects
 
+- [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv): Contributing to a project focused on emergency services. Join us if you're interested!
 
+## Get in Touch
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-</div>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
+- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 
-
-
-<div align="center">
-  <img height="500" src="https://media.discordapp.net/attachments/908474442332639312/1182406925476958218/Jouw_kans_om_de_held_te_zijn_1.png?ex=65f35343&is=65e0de43&hm=8b08dac9e66dd04f6b9a4316b8d4cba80dfbf3a0ad98087f74449d313115f08b&=&format=webp&quality=lossless&width=4000&height=2000"  />
-</div>
-
-###
+Feel free to reach out if you want to collaborate on any projects or just to chat! 😊
