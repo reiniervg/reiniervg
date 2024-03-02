@@ -31,6 +31,6 @@ Hi there! I'm Reinier, a networking student based in the Netherlands. I'm passio
 ## Get in Touch
 
 - Hulpdiensten Centraal: [Discord Link](https://discord.gg/uaShN3KZrv)
-- Discord: passievruchtnl
+- Discord: passievruchtnl / [Discord Profile](https://discord.com/users/528557003770167297)
 
 Feel free to reach out if you want to collaborate on any projects or just to chat! 😊
