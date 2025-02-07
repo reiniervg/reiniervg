@@ -8,7 +8,7 @@ Hi there! I'm Reinier, a networking student based in the Netherlands. I'm passio
 - 💻 Currently learning Lua, Vue.js, and MySQL.
 - 🌐 Experience in JavaScript, HTML, CSS, Intune, Lua, Azure, C#, Discord.js, and Node.js.
 - 🖥️ Familiar with VMware vSphere, Hyper-V, VirtualBox, and Pterodactyl Panel.
-- 🚑 Working on [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv) - a project related to emergency services.
+- 🚑 Working on [D046](https://discord.gg/MG9EAV6BNw) - a project related to emergency services.
 - 🎨 Also interested in modeling.
 
 ## Technologies & Tools
@@ -31,11 +31,11 @@ Hi there! I'm Reinier, a networking student based in the Netherlands. I'm passio
 
 ## Current Projects
 
-- [Hulpdiensten Centraal](https://discord.gg/uaShN3KZrv): Contributing to a project focused on emergency services. Join us if you're interested!
+- [District 046](https://discord.gg/MG9EAV6BNw): Contributing to a project focused on emergency services. Join us if you're interested!
 
 ## Get in Touch
 
-- Hulpdiensten Centraal: [Discord Link](https://discord.gg/uaShN3KZrv)
+- District 046: [Discord Link](https://discord.gg/MG9EAV6BNw)
 - Discord: passievruchtnl / [Discord Profile](https://discord.com/users/528557003770167297)
 
 Feel free to reach out if you want to collaborate on any projects or just to chat! 😊
